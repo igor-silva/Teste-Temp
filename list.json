@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "key": 1,
+            "value": "SC"
+        },
+        {
+            "key": 2,
+            "value": "SP"
+        },
+        {
+            "key": 3,
+            "value": "PR"
+        },
+        {
+            "key": 4,
+            "value": "TO"
+        },
+        {
+            "key": 5,
+            "value": "RJ"
+        },
+        {
+            "key": 6,
+            "value": "SE"
+        }
+    ]
+}
